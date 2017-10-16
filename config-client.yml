@@ -3,3 +3,4 @@ info:
   from: git1
 
 test: aaa
+foo: test-master
